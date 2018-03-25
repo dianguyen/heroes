@@ -1,0 +1,12 @@
+<div class="detail row">
+    <div class="card">
+        <h3 class="card-header primary-color white-text">{{title}}</h3>
+        <div class="card-body row ">
+            <div class="col-md-3 col-lg-3 col-sm-3 col-xl-3 item" *ngFor=" let flowerItem of flowerList">
+                <app-flower [flower]="flowerItem"></app-flower>
+            
+              </div>
+        </div>
+    </div>
+
+</div>
