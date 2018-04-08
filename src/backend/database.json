@@ -1,0 +1,101 @@
+{
+    "products": [
+        {
+        "id": 1,
+        "type": "banchay",
+        "name": "Hoa 1",
+        "price": "400,000",
+        "img": "assets/img/hoa1.jpg",
+        "description": "Chúc mừng sinh nhật"
+      },
+      {
+        "id": 2,
+        "type": "banchay",
+        "name": "Hoa 2",
+        "price": "350,000",
+        "img": "assets/img/hoa2.jpg",
+        "description": "Giai điệu trái tim"
+      },  
+      {
+        "id": 3,
+        "type": "banchay",
+        "name": "Hoa 3",
+        "price": "350,000",
+        "img": "assets/img/hoa3.jpg",
+        "description": "Hoa sinh nhật"
+      },
+      {
+        "id": 4,
+        "type": "banchay",
+        "name": "Hoa 4",
+        "price": "200,000",
+        "img": "assets/img/hoa4.jpg",
+        "description": "Hoa sự kiện"
+      },
+      {
+        "id": 5,
+        "type": "banchay",
+        "name": "Hoa 5",
+        "price": "200,000",
+        "img": "assets/img/hoa5.jpg",
+        "description": "Hoa sinh nhật / sự kiện"
+      },
+      {
+        "id": 6,
+        "type": "maumoi",
+        "name": "Hoa 6",
+        "price": "600,000",
+        "img": "assets/img/hoa6.jpg",
+        "description": "Thank you!"
+      },
+      {
+        "id": 7,
+        "type": "banchay",
+        "name": "Hoa 7",
+        "price": "500,000",
+        "img": "assets/img/hoa7.jpg",
+        "description": "Hoa sinh nhật"
+      },
+      {
+        "id": 8,
+        "type": "maumoi",
+        "name": "Hoa 8",
+        "price": "450,000",
+        "img": "assets/img/hoa8.jpg",
+        "description": "Hoa sự kiện"
+      },
+      {
+        "id": 9,
+        "type": "maumoi",
+        "name": "Hoa 9",
+        "price": "350,000",
+        "img": "assets/img/hoa9.jpg",
+        "description": "Hoa trang trí"
+      },
+      {
+        "id": 10,
+        "type": "banchay",
+        "name": "Hoa 10",
+        "price": "200,000",
+        "img": "assets/img/hoa10.jpg",
+        "description": "Hoa trang trí"
+      },
+      {
+        "id": 11,
+        "type": "banchay",
+        "name": "Hoa 11",
+        "price": "300,000",
+        "img": "assets/img/hoa11.jpg",
+        "description": "Hoa hồng"
+      },
+      {
+        "id": 12,
+        "type": "maumoi",
+        "name": "Hoa 12",
+        "price": "250,000",
+        "img": "assets/img/hoa12.jpg",
+        "description": "Hoa sinh nhật"
+
+        }
+    ]
+}
